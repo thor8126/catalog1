@@ -1,0 +1,59 @@
+.right {
+display: flex;
+flex-direction: column;
+/* margin-top: 100 px; */
+/* background-color: blueviolet; */
+}
+.allimage{
+    display: flex;
+    width: 900px;
+    background-color: aqua;
+}
+.prev{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 20px;
+    height: 40px;
+    width: 50px;
+}
+.image{
+    /* display: flex; */
+   flex-direction: row;
+    /* background-color: rgb(114, 241, 241); */
+}
+
+.image1{
+    height: 100px;
+    /* margin-top: 600px; */
+    margin-left: 3px;
+}
+
+.next{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 2px;
+    height: 40px;
+    width: 50px;
+}
+.nexticon{
+    height: 40px;
+}
+.previcon{
+    display: flex;
+    height: 40px;
+}
+.show{
+    display: flex;
+    flex-direction: row;
+}
+.showimage{
+    height: 500px;
+    margin: 50px;
+}
+.name{
+    display: flex;
+    margin-top: 42px;
+}
+.details{
+    margin-top: 40px;
+}
